@@ -19,6 +19,7 @@
 		9DFA2BAD1635A42400093E3A /* character.json in Resources */ = {isa = PBXBuildFile; fileRef = 9DFA2BAB1635A42400093E3A /* character.json */; };
 		9DFA2BAE1635A42400093E3A /* guild.json in Resources */ = {isa = PBXBuildFile; fileRef = 9DFA2BAC1635A42400093E3A /* guild.json */; };
 		9DFA2BB11635A49B00093E3A /* CharacterTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DFA2BB01635A49B00093E3A /* CharacterTests.m */; };
+		9DFA2BB31636328A00093E3A /* New_Apps.mobileprovision in Resources */ = {isa = PBXBuildFile; fileRef = 9DFA2BB21636328A00093E3A /* New_Apps.mobileprovision */; };
 		CB9FDC4015E9872D00B3713E /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB9FDC3F15E9872D00B3713E /* UIKit.framework */; };
 		CB9FDC4215E9872D00B3713E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB9FDC4115E9872D00B3713E /* Foundation.framework */; };
 		CB9FDC4415E9872D00B3713E /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB9FDC4315E9872D00B3713E /* CoreGraphics.framework */; };
@@ -102,6 +103,7 @@
 		9DFA2BAC1635A42400093E3A /* guild.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = guild.json; sourceTree = "<group>"; };
 		9DFA2BAF1635A49B00093E3A /* CharacterTests.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CharacterTests.h; sourceTree = "<group>"; };
 		9DFA2BB01635A49B00093E3A /* CharacterTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CharacterTests.m; sourceTree = "<group>"; };
+		9DFA2BB21636328A00093E3A /* New_Apps.mobileprovision */ = {isa = PBXFileReference; lastKnownFileType = file; path = New_Apps.mobileprovision; sourceTree = "<group>"; };
 		CB9FDC3B15E9872D00B3713E /* GuildBrowser.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GuildBrowser.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB9FDC3F15E9872D00B3713E /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		CB9FDC4115E9872D00B3713E /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -253,6 +255,7 @@
 		CB9FDC3015E9872D00B3713E = {
 			isa = PBXGroup;
 			children = (
+				9DFA2BB21636328A00093E3A /* New_Apps.mobileprovision */,
 				CB9FDCEC15E9B31400B3713E /* images */,
 				CB9FDCC115E9A8DA00B3713E /* AFNetworking */,
 				CB9FDC4515E9872D00B3713E /* GuildBrowser */,
@@ -528,6 +531,7 @@
 				9D311A991634F6DC00CD211D /* InfoPlist.strings in Resources */,
 				9DFA2BAD1635A42400093E3A /* character.json in Resources */,
 				9DFA2BAE1635A42400093E3A /* guild.json in Resources */,
+				9DFA2BB31636328A00093E3A /* New_Apps.mobileprovision in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
